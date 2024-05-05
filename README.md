@@ -3,9 +3,10 @@ Python-based educational platform designed for students  to learn and experiment
 
 ## Learning Objectives
 
-Master Algorithmic Trading: Build a solid foundation in the principles of algorithmic trading, understanding both the theoretical and practical aspects.
-Enhance Python Proficiency: Improve  Python programming skills with a focus on real-world financial data analysis and trading strategy implementation.
-Practical Experience: Apply learned concepts through homework assignments, gaining hands-on experience in developing and testing trading strategies.
+-  Master Algorithmic Trading:
+-    Build a solid foundation in the principles of algorithmic trading, understanding both the theoretical and practical aspects.
+-    Enhance Python Proficiency: Improve  Python programming skills with a focus on real-world financial data analysis and trading strategy implementation.
+-    Practical Experience: Apply learned concepts through homework assignments, gaining hands-on experience in developing and testing trading strategies.
 
 ## Analytics in Stock Markets
 
@@ -22,19 +23,19 @@ Practical Experience: Apply learned concepts through homework assignments, gaini
 -  When it becomes necessary to consider payment options in the API selection process.
 
 ### Module 2: Working with the Data (in Pandas)
-The Core Libraries for Data Analysis in Python
-Explore the core libraries: Numpy, Pandas, and Matplotlib (including Seaborn and Plotly Express).
-Understanding Data Types and Manipulation
-Delve into various data types: numeric, string, and date categories.
-Master the art of generating dummy variables for comprehensive analysis.
-Enhancing Datasets with Feature Generation Techniques
-Derive additional features such as hour/day of the week, growth over different periods.
-Incorporate technical indicators using the TaLib library.
-Understand predictive elements, including future growth over a week, a month, or a year.
-Effective Data Cleaning Strategies
-Learn strategies for cleaning and preparing data for analysis.
-Acquire skills in joining multiple datasets for a holistic view.
-Thorough Descriptive Analysis
-Conduct a comprehensive descriptive analysis of the dataset.
-Explore correlations within the data to uncover meaningful insights.
-Homework
+-  The Core Libraries for Data Analysis in Python
+-    Explore the core libraries: Numpy, Pandas, and Matplotlib (including Seaborn and Plotly Express).
+-    Understanding Data Types and Manipulation
+-    Delve into various data types: numeric, string, and date categories.
+-    Master the art of generating dummy variables for comprehensive analysis.
+-    Enhancing Datasets with Feature Generation Techniques
+-    Derive additional features such as hour/day of the week, growth over different periods.
+-    Incorporate technical indicators using the TaLib library.
+-    Understand predictive elements, including future growth over a week, a month, or a year.
+-    Effective Data Cleaning Strategies
+-    Learn strategies for cleaning and preparing data for analysis.
+-    Acquire skills in joining multiple datasets for a holistic view.
+-    Thorough Descriptive Analysis
+-    Conduct a comprehensive descriptive analysis of the dataset.
+-    Explore correlations within the data to uncover meaningful insights.
+
