@@ -39,3 +39,9 @@ Python-based educational platform designed for students  to learn and experiment
 -    Conduct a comprehensive descriptive analysis of the dataset.
 -    Explore correlations within the data to uncover meaningful insights.
 
+### Module 3: Analytical Modeling
+-    Framing Hypotheses and Unraveling Time-Series Predictions
+-    Heuristics and hand rules for practical predictions.
+-    Predicting time-series data: trends, seasonality, and remainder decomposition.
+-    Regression techniques for understanding data relationships.
+-    Binary classification to determine growth direction.
